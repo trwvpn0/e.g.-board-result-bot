@@ -1,0 +1,1 @@
+python-telegram-bot==20.7<br/>requests==2.31.0<br/>beautifulsoup4==4.12.2<br/>fuzzywuzzy==0.18.0<br/>python-Levenshtein==0.23.0

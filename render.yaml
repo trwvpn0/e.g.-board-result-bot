@@ -1,0 +1,1 @@
+services:<br/>  - type: web<br/>    name: board-result-bot<br/>    env: python<br/>    buildCommand: pip install -r requirements.txt<br/>    startCommand: python bot.py
